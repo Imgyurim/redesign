@@ -1,0 +1,7 @@
+반응형 디자인
+
+동일한 홈페이지 html파일에 대해서 여러 스마트기기에서 보일수 있도록 css파일을 연결
+
+html파일 1개
+
+pc.css/mobile.css/tablet.css
